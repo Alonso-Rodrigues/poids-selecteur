@@ -1,0 +1,13 @@
+li{
+    color: blue;
+}
+li.vert{
+    color: green;
+}
+
+[data-name = "ha"]{
+    color: orange;
+}
+#rose{
+    color: rgb(147, 93, 102);
+}
